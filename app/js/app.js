@@ -1,16 +1,16 @@
 require.config({
     paths: {
-        underscore: 'libs/underscore',
-        backbone: 'libs/backbone',
-        marionette: 'libs/backbone.marionette'
+        "underscore": 'libs/underscore',
+        "backbone": 'libs/backbone',
+        "backbone.marionette": 'libs/backbone.marionette'
     },
     shim: {
         "backbone": {
-            deps: ['underscore', 'jquery', 'marionette'],
+            deps: ['underscore'],
             exports: 'Backbone'
         },
-        "marionette": {
-            deps: ['backbone', 'underscore', 'jquery'],
+        "backbone.marionette": {
+            deps: ['backbone'],
             exports: 'Backbone'
         },
         "underscore": {
@@ -21,8 +21,7 @@ require.config({
 
 require([
     'jquery'
-  , 'backbone'
+  , 'backbone.marionette'
 ], function ($, Backbone) {
     var MyApp = new Backbone.Marionette.Application();
-
 });

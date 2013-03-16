@@ -5,7 +5,7 @@
     <ignored path="Blog API.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.jade" changelist="30742128-a0af-4c45-b1e5-bf2eeb7871eb" time="1363440056369" ignored="false" />
-    <file path="/app.js" changelist="30742128-a0af-4c45-b1e5-bf2eeb7871eb" time="1363453107931" ignored="false" />
+    <file path="/app.js" changelist="30742128-a0af-4c45-b1e5-bf2eeb7871eb" time="1363454284386" ignored="false" />
     <file path="/package.json" changelist="30742128-a0af-4c45-b1e5-bf2eeb7871eb" time="1363449491817" ignored="false" />
     <file path="/server.js" changelist="30742128-a0af-4c45-b1e5-bf2eeb7871eb" time="1363449645905" ignored="false" />
     <file path="/index.html" changelist="30742128-a0af-4c45-b1e5-bf2eeb7871eb" time="1363451911236" ignored="false" />
@@ -40,38 +40,7 @@
       <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="4" selection-start="607" selection-end="607" vertical-scroll-proportion="0.75342464">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="underscore.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/libs/underscore.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1226" column="14" selection-start="45640" selection-end="45640" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="backbone.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/libs/backbone.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="6" selection-start="1226" selection-end="1226" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="25" column="54" selection-start="593" selection-end="593" vertical-scroll-proportion="0.7123288">
               <folding />
             </state>
           </provider>
@@ -468,7 +437,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="4" selection-start="607" selection-end="607" vertical-scroll-proportion="0.75342464">
+        <state line="25" column="54" selection-start="593" selection-end="593" vertical-scroll-proportion="0.7123288">
           <folding />
         </state>
       </provider>
